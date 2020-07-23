@@ -1,4 +1,4 @@
-# Usage
+# Creating a customized AKiPS report
 
 AKiPS set up
 
