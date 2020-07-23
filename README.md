@@ -1,6 +1,6 @@
 # Creating a customized AKiPS report
 
-AKiPS set up
+## Set-up
 
 * Should access admin account
 1. Admin >> API >> Web API Settings
