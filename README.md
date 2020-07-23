@@ -1,5 +1,5 @@
 # Creating a customized AKiPS report
-***
+
   - Used AKiPS' site scripting (Perl script) & Web API
   - Created a report by Python
   - Report example
@@ -11,7 +11,7 @@
 
 
 ## Preset
-***
+
   * AKiPS setting
     - Admin >> API >> Web API Settings
       - Site Script Functions & Unused Interfaces turn on
