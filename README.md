@@ -16,10 +16,10 @@
 
 with open(r'P:\Script\AKiPS_Report\Unused_Interface.csv', 'w', newline='') as csvFile:
 
-<center>  
+
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
-</center>
+
